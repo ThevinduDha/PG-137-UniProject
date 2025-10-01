@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface TrainRepository extends JpaRepository<Train, Long> {
-    // add custom queries here later if needed
+    // add custom queries 
 }
